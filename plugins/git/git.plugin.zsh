@@ -1,4 +1,8 @@
 # Aliases
+alias gs='git stash'
+alias gsa='git stash apply'
+alias grh='git reset --hard'
+alias gsu='git submodule update'
 alias g='git'
 compdef g=git
 alias gst='git status'
